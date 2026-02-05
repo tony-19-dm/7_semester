@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{679BB01F-95A3-460A-BE7C-5E223532B4A5}|Default">
+  <MonoDevelop.Ide.ItemProperties.test1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab1/Class1.cs">
+    <Files>
+      <File FileName="../test1/test1/UnitTest1.cs" />
+      <File FileName="lab1/Class1.cs" Line="28" Column="42" />
+      <File FileName="../test1/test1/TestResults/32db525a-6868-46b3-9565-0f3494263cfa/coverage.cobertura.xml" Line="145" Column="49" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab1" expanded="True">
+            <Node name="lab1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+            <Node name="test1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="TestResults" expanded="True">
+                <Node name="32db525a-6868-46b3-9565-0f3494263cfa" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="lab1" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
